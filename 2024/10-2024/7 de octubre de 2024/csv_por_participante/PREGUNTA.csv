@@ -1,0 +1,78 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Carmen Sánchez, de ADN 40. Buenos días.",0.0,7,7,10,2024
+PREGUNTA,"Primero, algunos detalles sobre este programa de salud. Preguntarle si cambió de nombre, había mencionado antes que iba a ser ‘Hoy por ustedes, mañana por nosotros’, algo así, me parece.",0.0,30,7,10,2024
+PREGUNTA," Perfecto, muchas gracias.",0.0,3,7,10,2024
+PREGUNTA,¿Tendrá justamente el presupuesto que se va a destinar para este programa?,0.0,12,7,10,2024
+PREGUNTA," Perfecto, muy bien.",0.0,3,7,10,2024
+PREGUNTA,"Y preguntarle, en otro tema, justamente el tema de seguridad, sé que el día de mañana presenta su Plan Nacional de Seguridad, pero también el fin de semana que acaba de pasar pues ocurrió un hecho bastante violento, el asesinato del alcalde en Chilpancingo.",0.0,44,7,10,2024
+PREGUNTA,"Saber justamente su opinión, si tiene más detalles sobre este evento, y si obviamente lo va a incluir dentro de uno, como uno de los lugares pues más, digamos, que problemáticos justamente en tema de seguridad.",0.0,36,7,10,2024
+PREGUNTA,"Y también, aunado al tema de salud, ¿cómo lograr precisamente que los enfermeros, los médicos, pues puedan accesar a estas zonas, digamos, a estos puntos rojos sin que corran algún peligro?",0.0,31,7,10,2024
+PREGUNTA,Gracias.,0.0,1,7,10,2024
+PREGUNTA, Sobre los hechos…,0.0,3,7,10,2024
+PREGUNTA," Buenos días, presidenta.",0.0,3,7,10,2024
+PREGUNTA,"Rodrigo Muñoz, de NX Noticias.",0.0,5,7,10,2024
+PREGUNTA,"Primero, sobre estas iniciativas de ley, saber si tienen… Nos aclararon que hay un periodo donde van a poder los candidatos hacer publicidad de ellos en diferentes medios de comunicación. Saber si hay algún tope de gastos para que puedan hacer esta difusión de sus perfiles previo a la elección.",0.0,50,7,10,2024
+PREGUNTA," En el caso, por ejemplo, de —igual, regreso al tema de salud— los censos que se realizarán, por ejemplo, en la zona de Acapulco, que ahorita está afectada por el paso del huracán John, ¿este censo igual se llevará a cabo casa por casa o qué tan difícil será realizar este censo para los ciudadanos?",0.0,55,7,10,2024
+PREGUNTA," Por último, si me permite nada más un comentario sobre el lamentable fallecimiento de Ifigenia Martínez este fin de semana. Días antes le había entregado la banda presidencial. Saber qué es lo que opina, lo que piensa.",0.0,37,7,10,2024
+PREGUNTA, ¿Irá al Senado?,0.0,3,7,10,2024
+PREGUNTA," Buenos días, presidenta.",0.0,3,7,10,2024
+PREGUNTA,"Nancy Gómez, de Sin Embargo.",0.0,5,7,10,2024
+PREGUNTA,"Primero, esto del asesinato del alcalde, allá en Chilpancingo, qué está pasando allá, ya mencionó que se está investigando, pero ¿qué pasa en Chilpancingo?, lleva meses, digamos, en esta situación de violencia.",0.0,32,7,10,2024
+PREGUNTA, Muchas gracias.,0.0,2,7,10,2024
+PREGUNTA,"En una segunda pregunta, ahorita mencionaba sobre este tema de la reforma al Poder Judicial que, si la Suprema Corte y el Consejo de la Judicatura no entregan la información que se está solicitando, de todas formas se va a emitir la convocatoria por parte del Senado, pero, bueno, esto es como un intento, digamos, de bloquear o de obstaculizar el proceso, que siga, que fluya lo mejor posible.",0.0,69,7,10,2024
+PREGUNTA,"¿Qué hará para evadir este bloqueo, digamos, por parte de la ministra presidenta Norma Piña, no sólo en este punto, sino a lo largo del proceso de aquí hasta 2025?",0.0,30,7,10,2024
+PREGUNTA," Buenos días, presidenta.",0.0,3,7,10,2024
+PREGUNTA,"Adrián, de MVS Noticias.",0.0,4,7,10,2024
+PREGUNTA,"Preguntarle respecto a esta parte del proceso de elección de los juzgadores del país, si el INE demandó al Tribunal Electoral no frenar justamente los preparativos. Esto va a enfocado a esto que nos comenta, esto de las leyes secundarias. Preguntarle su posición respecto a este justamente este proceso que inicia el INE contra el tribunal, este juicio para que no impidan revertir este tema, porque dicen que no hay competencia para suspender los actos electorales.",0.0,76,7,10,2024
+PREGUNTA," Presidenta, y ahora que ya están avanzados y definidos todos estos plazos de fechas y de los términos en los que se tiene que realizar este proceso de elección, saber si a través de la secretaria de Gobernación, Rosa Icela, y este contacto que tiene justamente con el INE, ya tienen un aproximado ahora sí de cuánto va a costar este proceso de elección de los juzgadores del país.",0.0,69,7,10,2024
+PREGUNTA," Finalmente, presidenta, preguntarle el balance de los daños que ha causado John en Guerrero, en Oaxaca.",0.0,16,7,10,2024
+PREGUNTA,"Y una situación preocupante, que ya nos comentaba. Se está atendiendo la distribución de agua potable a través de pipas. Saber cuánto van a tardar estos trabajos para reestablecer los sistemas de bombeo que son, entiendo, cuatro sistemas de bombeo que quedaron inundados; si ya hay plazos para eso, porque el agua es vital para el funcionamiento de las actividades en la población afectada.",0.0,64,7,10,2024
+PREGUNTA, Presidenta…,0.0,1,7,10,2024
+PREGUNTA," Doctora, ¿cómo está?, presidenta.",0.0,4,7,10,2024
+PREGUNTA,"Carlos Guzmán, de CuatroMedia Telecomunicaciones Veracruz.",0.0,6,7,10,2024
+PREGUNTA,"Pues de inicio, ya le preguntaba la compañera justamente de este huracán que está en la península de Yucatán. Todo parece indicar que creció a las 3:00 de la mañana, según estábamos viendo un reporte del Meteorológico, a categoría 4.",0.0,40,7,10,2024
+PREGUNTA,"¿Podría tocar, según se menciona —no sé si tenga más información al respecto—, el puerto de Progreso en Yucatán, o si tiene alguna otra información de inicio que nos pueda comentar, doctora?",0.0,32,7,10,2024
+PREGUNTA," Aprovechando que está aquí Ernestina Godoy que fue, que estaba en el Senado de la República, por ahí platicábamos algunos temas con ellas, pues es que nos precise el tema de la cuestión electoral.",0.0,34,7,10,2024
+PREGUNTA,"Ya se ha mencionado que en la Ley de Amparo hay un artículo que impide que los amparos sean ocupados para reformas constitucionales. Usted, que estuvo en el Senado de la República, nos gustaría que nos presentara, ¿por qué?, porque hay una diputada del MC que se llama Laura Ballesteros, la ha de conocer usted, ha insistido en medios de comunicación de que tiene cinco amparos que impiden que la reforma pueda transitar en el tema electoral, pueda el INE incluso… Supuestamente le entregaron hace unos días un recurso judicial que le impide continuar con el proceso de la reforma.",0.0,100,7,10,2024
+PREGUNTA,"No sé si le permita usted a la consejera Ernestina Godoy que, con sus carácter de jurista y de senadora con licencia, nos precise justamente ese tema para la población que no lo entiende, no lo aprecia.",0.0,37,7,10,2024
+PREGUNTA,"Le digo, la ley creo que es muy clara, pero, sin embargo, sí nos gustaría que saliera de voz de una jurista, que nos pueda comentar ese tema.",0.0,28,7,10,2024
+PREGUNTA," Ya para terminar, doctora, aprovechando que está aquí su Gabinete de Salud, le comentábamos al presidente López Obrador antes de que se fuera que si había la posibilidad de que firmaran un convenio marco para que los que tenemos, en este caso tenemos el centro de salud… Usted sabe, yo vivo en San Pedro Atocpan, Milpa Alta, me voy a atender a mi centro de salud, para mí es más complicado irme a una clínica del IMSS que me toca, porque yo tengo el seguro aquí de periodistas que otorga Presidencia de la República, me traslado en una hora a la clínica que está en Coapa. Pero le preguntaba al presidente López Obrador: yo ya no me puedo atender en el centro de salud porque no hay un convenio que permita que los que no tenemos seguridad social y que tenemos, bueno, tenemos seguridad social y no podemos atendernos en un centro de salud, y a la inversa.",0.0,158,7,10,2024
+PREGUNTA,"Es preguntarle: ¿Se va a firmar este convenio? En dado caso de que no, ¿cuál sería la alternativa? Y en dado caso que sí, ¿cuál sería la fecha en la cual se firmaría para la universalización de los servicios de salud?",0.0,41,7,10,2024
+PREGUNTA," Primero que nada, muchísimas gracias, presidenta, por la oportunidad de preguntar el día de hoy aquí en la conferencia del pueblo. Mi nombre es Elianet Valadez, del canal de YouTube Eli Tv Oficial, y vengo de Orlando, Florida.",0.0,38,7,10,2024
+PREGUNTA,"Mi primera pregunta, presidenta, es: pues hace unos días atrás un comediante llamado Rafael Inclán pues quiso, de alguna manera, menospreciarla, ofenderla, especialmente a la investidura presidencial que lleva usted, llamándola ‘ama de casa’; ahora pide disculpas.",0.0,37,7,10,2024
+PREGUNTA,"Y me gustaría saber, presidenta, cómo usted responde a estas disculpas y, digamos, a esta edad temprana de su presidencia. ¿Qué mensaje envía a todos aquellos que, de alguna manera, no solamente intentan ofenderla, sino ofender a las mujeres en general?",0.0,41,7,10,2024
+PREGUNTA,Gracias.,0.0,1,7,10,2024
+PREGUNTA, ¿Habrá un número de teléfono en su nueva Secretaría de las Mujeres donde podrán reportar o denunciar algún tipo de abuso o violencia en contra de ellas?,0.0,27,7,10,2024
+PREGUNTA, No se preocupe.  Que si habrá un número de teléfono donde las mujeres podrán llamar a la nueva Secretaría de…,0.0,20,7,10,2024
+PREGUNTA," Y ya por último, presidenta…",0.0,5,7,10,2024
+PREGUNTA, ¿Aplicará el Plan DN-III?,0.0,4,7,10,2024
+PREGUNTA," Ya por último, presidenta, a un día de cumplirse una semana de su gobierno, ¿cómo calificaría su primera semana de trabajo?, ¿y cómo percibe usted que le ha ayudado las giras de trabajo que tuvo con el presidente Andrés Manuel López Obrador?",0.0,42,7,10,2024
+PREGUNTA,"Y también nos han preguntado que si el anuncio que hizo este fin de semana en su gira de los trenes, que si los trenes serán fabricados en México.",0.0,29,7,10,2024
+PREGUNTA,Muchas gracias.,0.0,2,7,10,2024
+PREGUNTA," Presidenta, buenos días.",0.0,3,7,10,2024
+PREGUNTA,"Me presento con usted, soy Tere Mora Guillén, corresponsal del corporativo Imagen, del golfo de Veracruz, con cinco periódicos impresos, tres digitales y una revista al que pertenece El Diario del Istmo, así como de Grupo Intermedia de los canales de Ciudad Juárez, Chihuahua, Delicias, Cuauhtémoc, Mexicali y Tijuana. Buenos días.",0.0,51,7,10,2024
+PREGUNTA,"Primero, presidenta, agradecerle la participación que nos da a los medios en este espacio de mañanera a medios de comunicación independientes que circulan en los estados, ya que nos ayuda a dar a conocer de primera mano las inquietudes de nuestros lectores.",0.0,42,7,10,2024
+PREGUNTA,"Señora, presidenta, en el estado de Veracruz se genera alrededor del 10 por ciento de la energía eléctrica que se consume en el país. Tenemos, por ejemplo, la única central nucleoeléctrica de México, Laguna Verde, que además produce energía limpia.",0.0,40,7,10,2024
+PREGUNTA,"Desde hace tiempo, una de las solicitudes de los veracruzanos es ajustar el tabulador y contar con tarifas más bajas en el recibo de luz. ¿Podría hacer posible, su gobierno, gestionar una revisión con miras a reducir las tarifas eléctricas, sobre todo en regiones más pobres y en donde es indispensable el uso de sistemas de aire acondicionado o ventilación para las temperaturas que llegan a alcanzar los 40 grados? Esa sería la primera pregunta.",0.0,75,7,10,2024
+PREGUNTA," Muchas gracias, presidenta.",0.0,3,7,10,2024
+PREGUNTA,"Mi segunda pregunta es: la reforma al Poder Judicial obliga a los estados armonizar sus leyes locales para que también sus magistrados y magistradas, así como juezas, jueces, sean electos por el voto popular. ¿Haría usted algún llamado para que metan el acelerador al tema y ya sea llevado a los congresos locales En Veracruz todavía no hay una iniciativa al respecto en la legislatura local.",0.0,66,7,10,2024
+PREGUNTA," Muchas gracias, presidenta.",0.0,3,7,10,2024
+PREGUNTA,"Mi última pregunta sería: tras la llamada del presidente Biden, del fin de semana, ¿cuándo habrá avances en los temas binacionales entre México y los Estados Unidos?",0.0,27,7,10,2024
+PREGUNTA," Buen día, presidenta.",0.0,3,7,10,2024
+PREGUNTA,"Manuel Pedrero, para Los Reporteros Mx.",0.0,6,7,10,2024
+PREGUNTA,"Preguntarle, mi primera pregunta: ¿qué opinión le merece el reconocimiento internacional el premio Versalles al Aeropuerto Internacional ‘Felipe Ángeles’? Y aunado, ¿cuál va a ser la relación también de las Fuerzas Armadas en labores de infraestructura y obra pública en su gobierno?",0.0,42,7,10,2024
+PREGUNTA," En una segunda pregunta, el próximo año, en 2025, se van a cumplir 30 años desde que en 1995 el presidente Zedillo decidió privatizar los ferrocarriles en México. De hecho, había una empresa paraestatal, Ferrocarriles Nacionales de México, que en el 95 es privatizada y en el 2001 ese organismo es desaparecido.",0.0,52,7,10,2024
+PREGUNTA,"Preguntarle si con este regreso de los trenes de pasajeros que plantea su gobierno, también se va a crear un organismo paraestatal para la organización de los propios trenes. Y en contraste 30 años después, ¿qué significa que regresen los trenes de pasajeros después de esta etapa neoliberal, presidenta?",0.0,49,7,10,2024
+PREGUNTA, Todas las personas tenemos derecho a una vida saludable.,0.0,9,7,10,2024
+PREGUNTA, Todas y todos podemos crear nuestro bienestar personal viviendo en equilibrio con la comunidad y con el medio ambiente.,0.0,19,7,10,2024
+PREGUNTA, Tenemos derecho a contar con información y alternativas que nos permitan desarrollar nuestro potencial en las mejores condiciones físicas y emocionales.,0.0,21,7,10,2024
+PREGUNTA," Por supuesto que es posible, se puede lograr con acciones sencillas que muy pronto construirán una transformación benéfica a nivel personal y colectivo.",0.0,23,7,10,2024
+PREGUNTA," La ruta hacia una vida saludable tiene muchas estaciones, algunas de las principales son: hacer actividad física, cuidar nuestra salud mental, cuidar el medio ambiente, desarrollar hábitos que ayuden a prevenir enfermedades y, por supuesto, la alimentación saludable.",0.0,38,7,10,2024
+PREGUNTA," Por desgracia, aunque la comida sana está al alcance de todos, estamos saturados de alimentos ultraprocesados que en lugar de nutrirnos nos enferman. Por ejemplo, en promedio un refresco normal tiene unos 60 gramos de azúcar por lata, eso equivale a unas 12 cucharadas.",0.0,44,7,10,2024
+PREGUNTA, Tan sólo esa lata ya cubre el máximo diario recomendado por la Organización Mundial de la Salud. Y hay refrescos que tienen hasta tres veces más azúcar.,0.0,27,7,10,2024
+PREGUNTA," Es sólo uno de muchos ejemplos, pero no es poca cosa, el consumo excesivo de azúcar es clave para desarrollar sobrepeso y obesidad, que a su vez desencadenan enfermedades como diabetes, hipertensión y otros males cardiovasculares que están entre las principales causas de muerte en México.",0.0,46,7,10,2024
+PREGUNTA," Por fortuna, en México tenemos la alternativa ideal: la dieta de la milpa, resultado de miles de años de siembra y cocina tradicional. Se basa en la amplia variedad de verduras, cereales, leguminosas y frutas que crecen en las milpas de nuestro país; principalmente los cuatro fantásticos: maíz, frijol, chile y calabaza.",0.0,52,7,10,2024
+PREGUNTA," Son naturales, nutritivos y deliciosos, y se combinan fácilmente con todo tipo de alimentos, garantizando una comida equilibrada, fresca, completa y sana. Además, son fáciles de encontrar, comprar y preparar.",0.0,30,7,10,2024
+PREGUNTA," Cuando elegimos la dieta de la milpa no sólo comemos de manera correcta, también recuperamos miles de años de saberes y sabores, recuperamos lo que somos.",0.0,26,7,10,2024
+PREGUNTA," No lo olvides, la vida saludable está al alcance de todas y todos.",0.0,13,7,10,2024
+PREGUNTA, Alimentemos nuestra vida.,0.0,3,7,10,2024
