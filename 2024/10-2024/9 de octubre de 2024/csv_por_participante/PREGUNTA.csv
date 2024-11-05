@@ -15,9 +15,9 @@ PREGUNTA," Y nada más, perdóneme, son dos cosas que tengo nada más: ¿tiene y
 PREGUNTA,"Y me faltaría nada más la estrategia para Acapulco, si va a ser especial.",0.0,14,9,10,2024
 PREGUNTA, ¿Habrá una estrategia especial (inaudible)?,0.0,5,9,10,2024
 PREGUNTA," Doctora, buenos días.",0.0,3,9,10,2024
-PREGUNTA,"Denisse Jiménez, México al minuto.",0.0,5,9,10,2024
+PREGUNTA,"Denisse Jiménez, México al Minuto.",0.0,5,9,10,2024
 PREGUNTA,"Primero que nada, esta mañana dañaron las instalaciones del INAI. Fue la comisionada del instituto, Julieta del Río, quien hizo la denuncia en redes sociales y condenó estos hechos. ¿Qué opinión le merece pues esta situación, siendo que el presidente —el expresidente, perdón— Andrés Manuel era una de las personas que no sólo criticaba, sino que buscaba desaparecer este organismo?",0.0,60,9,10,2024
-PREGUNTA," No, no, solamente: ¿cuál es su opinión al respecto, tomando en cuenta que su antecesor…?",0.0,15,9,10,2024
+PREGUNTA," No, no, no, solamente: ¿cuál es su opinión al respecto, tomando en cuenta que su antecesor…?",0.0,16,9,10,2024
 PREGUNTA, De acuerdo.,0.0,2,9,10,2024
 PREGUNTA,"¿Existe alguna actualización sobre el caso del asesinato del alcalde Chilpancingo, Alejandro Arcos?",0.0,13,9,10,2024
 PREGUNTA, De acuerdo.,0.0,2,9,10,2024
@@ -36,9 +36,10 @@ PREGUNTA, ¿Y para España ya tiene algún prospecto?,0.0,7,9,10,2024
 PREGUNTA," Muy buenos días a todos los compañeros, a los funcionarios invitados.",0.0,11,9,10,2024
 PREGUNTA,"Presidenta, con ‘A’, de todas las mexicanas y todos los mexicanos, soy su servidor Carlos Pozos, de Informativo LM, me conocen como ‘Lord Molécula’. Gracias por darme el uso del micrófono.",0.0,31,9,10,2024
 PREGUNTA,"Y el tema es precisamente relacionado con el licenciado Juan Ramón de la Fuente, pues fue ratificado por la Comisión de Relaciones Exteriores y se prevé que hoy, el nombramiento, rinda protesta.",0.0,32,9,10,2024
-PREGUNTA,"Con un nuevo canciller se acaba la pausa que existía con nuestro vecino del país del norte, con Estados Unidos, pero en materia de política exterior los escándalos en la Corona española están que arden y por ello me permito preguntarle, doctora: ¿aún necesitamos que el gobierno español ofrezca disculpas que solicitó el expresidente Andrés Manuel López Obrador o el nuevo canciller tejera las nuevas relaciones con España?",0.0,68,9,10,2024
+PREGUNTA,"Con un nuevo canciller se acaba la pausa que existía con nuestro vecino del país del norte, con Estados Unidos, pero en materia de política exterior los escándalos en la Corona española están que arden y por ello me permito preguntarle, doctora: ¿Aún necesitamos que el gobierno español ofrezca disculpas que solicitó el expresidente Andrés Manuel López Obrador o el nuevo canciller tejerá las nuevas relaciones con España?",0.0,68,9,10,2024
 PREGUNTA," Gracias, presidenta de todas y todos los mexicanos.",0.0,8,9,10,2024
-PREGUNTA,"Mi segunda pregunta: solía decir el expresidente de México Andrés Manuel López Obrador esta frase: ‘Lo viejo no acaba de morir y lo nuevo no acaba de nacer’. Mi planteamiento es el siguiente: a una semana y un día de su administración, ¿considera usted que el caso de Chilpancingo y el golpe de Estado técnico que intenta el Poder Judicial son los dos primeros obstáculos para medir la fuerza de su gobierno y empañar el arranque de su sexenio por parte de los poderes fácticos?",0.0,85,9,10,2024
+PREGUNTA,"Mi segunda pregunta: solía decir el expresidente de México, Andrés Manuel López Obrador, esta frase: ‘Lo viejo no acaba de morir y lo nuevo no acaba de nacer’. Mi planteamiento es el siguiente:",0.0,33,9,10,2024
+PREGUNTA,"A una semana y un día de su administración, ¿considera usted que el caso de Chilpancingo y el golpe de Estado técnico que intenta el Poder Judicial son los dos primeros obstáculos para medir la fuerza de su gobierno y empañar el arranque de su sexenio por parte de los poderes fácticos?",0.0,52,9,10,2024
 PREGUNTA,"Y, en este mismo sentido, ¿considera usted que ha nacido un nuevo régimen político en México?",0.0,16,9,10,2024
 PREGUNTA," Muchas gracias, presidenta.",0.0,3,9,10,2024
 PREGUNTA,"Mariana Madrid, Albavisión Canal 13.",0.0,5,9,10,2024
@@ -52,7 +53,7 @@ PREGUNTA, Okey.,0.0,1,9,10,2024
 PREGUNTA,Otro tema que quería preguntar y que creo que es fundamental para el país: usted que comentó…,0.0,17,9,10,2024
 PREGUNTA," No, nada más que si le había comentado algo sobre la carta, porque él fue el que dijo que no se iba a contestar la carta en declaraciones a medios españoles la semana pasada.",0.0,34,9,10,2024
 PREGUNTA, Okey.,0.0,1,9,10,2024
-PREGUNTA,"Estoy sentado porque me han pedido, para evitar el tema de las cámaras. El 1 de octubre usted también comentó, que es una buena noticia, que se van a pavimentar 14 mil kilómetros de carreteras. Entonces, hay un tema que preocupa bastante, que es los accidentes de tráfico. Me gustaría saber si en su gobierno habrá algún comité intersectorial entre la Secretaría de Infraestructura y Transportes, la Secretaría del Trabajo, la Guardia Nacional, incluso con los estados, para evitar esos 300 mil accidentes de tráfico anuales y casi 16 mil víctimas que hay en las carreteras mexicanas todos los años.",0.0,100,9,10,2024
+PREGUNTA,"Estoy sentado porque me han pedido, para evitar el tema de las cámaras. El 1 de octubre usted también comentó —que es una buena noticia— que se van a pavimentar 14 mil kilómetros de carreteras. Entonces, hay un tema que preocupa bastante, que es los accidentes de tráfico. Me gustaría saber si en su gobierno habrá algún comité intersectorial entre la Secretaría de Infraestructura y transportes, la Secretaría del Trabajo, la Guardia Nacional, incluso con los estados, para evitar esos 300 mil accidentes de tráfico anuales y casi 16 mil víctimas que hay en las carreteras mexicanas todos los años.",0.0,100,9,10,2024
 PREGUNTA," Y ya por último, me gustaría conocer un poco más a fondo sobre el plan que tiene para darle seguro social a los trabajadores de aplicaciones, e incluso si esto afectaría también a aquellas personas que trabajan en ventas por catálogo.",0.0,41,9,10,2024
 PREGUNTA," Gracias, presidenta. Muy buenos días.",0.0,5,9,10,2024
 PREGUNTA,"Soy Rocío Jardínez, de W Radio y TeleUrban.",0.0,8,9,10,2024
@@ -60,7 +61,7 @@ PREGUNTA,"Quisiera saber si me puede hacer algunas precisiones en cuanto a este 
 PREGUNTA,"También preguntarle, presidenta, si va a enviar alguna petición a Estados Unidos. Usted nos ha comentado esta falta de información tras la detención de ‘el Mayo’ Zambada. ¿Su gobierno va a necesitar enviar una solicitud para que se haga, se entregue esta información que siguen sin entregar? Solamente se envió la solicitud en el gobierno del presidente López Obrador. ¿Ustedes también lo ven necesario, presidenta?",0.0,65,9,10,2024
 PREGUNTA,"En primer lugar, por favor.",0.0,5,9,10,2024
 PREGUNTA," Okey, presidenta. Gracias.",0.0,3,9,10,2024
-PREGUNTA,"El día de ayer hubo una reunión de manera ya personal entre Gerardo Fernández Noroña y también la presidenta de la Suprema Corte, Norma Piña, una reunión de 20 minutos. Dijo Noroña que sí hay algunos acuerdos, sobre todo ya para terminar con los problemas que hay tras la reforma al Poder Judicial; sin embargo, que todavía no hay como una totalidad de acuerdos. ¿Usted qué opina al respecto? Esto se da mientras el Consejo de la Judicatura extiende la huelga que mantienen los trabajadores.",0.0,85,9,10,2024
+PREGUNTA,"El día de ayer hubo una reunión de manera ya personal entre Gerardo Fernández Noroña y también la presidenta de la Suprema Corte, Norma Piña; una reunión de 20 minutos. Dijo Noroña que sí hay algunos acuerdos, sobre todo ya para terminar con los problemas que hay tras la reforma al Poder Judicial; sin embargo, que todavía no hay como una totalidad de acuerdos. ¿Usted qué opina al respecto? Esto se da mientras el Consejo de la Judicatura extiende la huelga que mantienen los trabajadores.",0.0,85,9,10,2024
 PREGUNTA, ¿Cree que pueda tener alguna implicación?,0.0,6,9,10,2024
 PREGUNTA, Okey.,0.0,1,9,10,2024
 PREGUNTA,"Y, por último, si me permite, presidenta, saber si tiene algún reporte sobre los mexicanos que se encuentran en Florida por el paso de Milton.",0.0,25,9,10,2024
@@ -68,7 +69,7 @@ PREGUNTA," Gracias. Buenos días, presidenta.",0.0,4,9,10,2024
 PREGUNTA,"Arturo Pavón, de Chapucero y Efecto colateral.",0.0,7,9,10,2024
 PREGUNTA,"En el caso de estas reformas a la industria eléctrica, digo, bueno, la energía, ¿se puede decir que va a ser un regulador de los precios el que, bueno, ya sean preponderantes? ¿Sería el caso más o menos como el del Gas del Bienestar, que ante la subida de precios que estaban haciendo los gaseros, pues tuvo que entrar este programa del Gas del Bienestar para hacer que redujeran los precios? Sería mi primera pregunta.",0.0,75,9,10,2024
 PREGUNTA, Gracias.,0.0,1,9,10,2024
-PREGUNTA,"Y ya como segunda pregunta, apenas el 10 de septiembre el presidente todavía mencionó que el asunto de una empresa china que produce cerámica en el estado de Hidalgo se lo iba a trasladar a usted. En ese sentido, ¿cómo va?, porque están utilizando agua potable y la regresan contaminada completamente. ¿Qué es lo que se va a hacer en ese sentido?",0.0,62,9,10,2024
+PREGUNTA,"Y ya como segunda pregunta, apenas el 10 de septiembre el presidente todavía mencionó que el asunto de una empresa china que produce cerámica en el estado de Hidalgo se lo iba a trasladar a usted. En ese sentido, ¿cómo va? Porque están utilizando agua potable y la regresan contaminada completamente. ¿Qué es lo que se va a hacer en ese sentido?",0.0,62,9,10,2024
 PREGUNTA, Gracias. Principalmente saludar su llegada como presidenta de la República. Es un honor estar en esta mañanera.,0.0,17,9,10,2024
 PREGUNTA,"Y preguntarle qué expectativas tiene en tanto al manejo ecológico que se está implementando en las zonas contaminadas. El sureste tuvo muchos datos de deforestaciones y esas cosas que pues no tenían… Vaya, no se puede progresar sin dañar un poco el medio ambiente. En ese sentido, ¿sus nuevos proyectos para el tren Toluca, etcétera, tienen previsto alguna medida de protección al ambiente?",0.0,63,9,10,2024
 PREGUNTA, ¿Usted estará presente?,0.0,3,9,10,2024
@@ -77,8 +78,9 @@ PREGUNTA," Es mentira que el gobierno federal negara protección al alcalde del 
 PREGUNTA, Se habla también que no iba con seguridad de la Guardia Nacional. ¿Esto es cierto?,0.0,15,9,10,2024
 PREGUNTA, Se dice que justo el gobierno no se lo quiso proporcionar.,0.0,11,9,10,2024
 PREGUNTA, ¿Iba con alguien en específico a esa reunión de la usted habla?,0.0,12,9,10,2024
-PREGUNTA," Pero, ¿no se sabe específicamente a qué reunión iba? ¿con quién iba?",0.0,12,9,10,2024
+PREGUNTA," Pero, ¿no se sabe específicamente a qué reunión iba? ¿Con quién iba?",0.0,12,9,10,2024
 PREGUNTA, También es mentira que se sacara a la diputada Ifigenia Martínez del hospital para que entregara la banda presidencial. La propia familia de la diputada desmintió esta información que circuló en redes sociales y explicó que la diputada Ifigenia Martínez asistió a la ceremonia de protesta de la presidenta Claudia Sheinbaum porque así era su deseo.,0.0,56,9,10,2024
 PREGUNTA, El mismo día que el Estado mexicano ofreció disculpa pública por los crímenes del 2 de octubre de 1968 hubo quienes generaron desinformación sobre este acto histórico.,0.0,27,9,10,2024
 PREGUNTA, La presencia de huracanes en territorio nacional trajo una ola de mentiras contra el Gobierno de México por la atención de las familias afectadas por desastres naturales.,0.0,27,9,10,2024
 PREGUNTA," Como parte de estos ataques al Gobierno de México se reactivaron las viejas mentiras que aseguran que no hay apoyos a damnificados por desastres naturales por la desaparición del fideicomiso del Fonden. Por ejemplo, medios de comunicación aseguraron falsamente que el Gobierno de México simuló gastos para desastres porque los fondos no ejercidos del Fonden y el Fopreden fueron devueltos a la Tesorería de la Federación. Mentira. Según el artículo 54 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, los recursos no ejercidos deberán ser reintegrados a la Tesorería de la Federación. No es una simulación, pues el Gobierno de México invirtió 35 mil 17 millones de pesos para la atención de las personas de Acapulco y Coyuca de Benítez afectadas por Otis en 2023.",0.0,126,9,10,2024
+PREGUNTA,(FINALIZA VIDEO),0.0,2,9,10,2024
