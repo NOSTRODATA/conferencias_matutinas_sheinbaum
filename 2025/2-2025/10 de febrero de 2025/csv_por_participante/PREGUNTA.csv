@@ -1,0 +1,127 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Hola, buenas tardes.",0.0,3,10,2,2025
+PREGUNTA," Hola, buenas tardes.",0.0,3,10,2,2025
+PREGUNTA," Buenas tardes, señorita. ¿En qué podemos ayudarle?",0.0,7,10,2,2025
+PREGUNTA," Gracias. Estoy… Bueno, vi un anuncio donde dice que puedo sacar mi crédito en efectivo, pero no sé si estoy hablando al lugar correcto.",0.0,24,10,2,2025
+PREGUNTA," Sí, señorita, está llamando al Instituto de Asesores de Crédito de Infonavit. ¿Se encuentra usted actualmente laborando?",0.0,17,10,2,2025
+PREGUNTA," Sí, sí, tengo trabajo.",0.0,4,10,2,2025
+PREGUNTA," Sí está cotizando, ok. ¿Sabe usted cuánto saldo tiene acumulado hasta la fecha?",0.0,13,10,2,2025
+PREGUNTA, ¿De crédito?,0.0,2,10,2,2025
+PREGUNTA," No, de saldo.",0.0,3,10,2,2025
+PREGUNTA," Ah, ¿de lo de vivienda?",0.0,5,10,2,2025
+PREGUNTA, Sí.,0.0,1,10,2,2025
+PREGUNTA," Bueno, hace como tres meses me dijeron que tenía 345, una cosa así.",0.0,13,10,2,2025
+PREGUNTA," Ok, le comento: para poder hacer la monetización del saldo de la subcuenta de vivienda es necesario contar con un saldo mínimo de 350 mil. Si usted me comenta que ya más o menos anda por ahí, yo creo que las debe de tener acumulados.",0.0,45,10,2,2025
+PREGUNTA,Tenemos dos opciones:,0.0,3,10,2,2025
+PREGUNTA,La primera es a través de un crédito que tiene que usted que pagar.,0.0,14,10,2,2025
+PREGUNTA,"Y el segundo, es el crédito puente, esto no lo tiene usted que pagar, es un crédito puente, es un crédito electrónico que se usa, es con efecto devolutivo en un proceso de tiempo a 6 a 8 meses calendario, hablando de meses hábiles.",0.0,44,10,2,2025
+PREGUNTA,"No lo tiene que pagar, únicamente procede un descuento que le van a estar haciendo durante ese periodo, que es en lo que se certifica su trámite; o sea, esto se le hace la cancelación del trámite y ya no tiene usted que pagar nada.",0.0,45,10,2,2025
+PREGUNTA,Pero el otro sí.,0.0,4,10,2,2025
+PREGUNTA,"El crédito segundo se llama Mejoravit, que es un límite máximo que se les entrega de crédito sobre un 90 por ciento sobre 157 mil pesos. En este caso se le entregaría esta cantidad a su cuenta, se le hace un descuento estimado sobre el 30-35 por ciento, nada más que ese sí le reitero: tiene usted que liquidarlo y ese va de 12, 24, 36 meses, y el descuento es vía nómina.",0.0,73,10,2,2025
+PREGUNTA,"Para el efecto del suyo, yo le referiría que le convendría mucho más hacer el… hacer su crédito puente, que es en donde le devuelven todo, andaría recuperando usted alrededor como 220 mil pesos aproximadamente libres de impuestos.",0.0,38,10,2,2025
+PREGUNTA," Ok. ¿O sea, de los 350 más o menos que podría tener me podrían dar solo eso?",0.0,17,10,2,2025
+PREGUNTA," Ok, entonces en un momento te mando el mensaje y ya nada más para que me puedas decir los documentos. Yo espero juntarlos este fin de semana y a ver si te puedo volver a buscar el lunes para entregarte todo esto.",0.0,42,10,2,2025
+PREGUNTA, Con todo gusto.,0.0,3,10,2,2025
+PREGUNTA, Gracias.,0.0,1,10,2,2025
+PREGUNTA, Que esté muy bien y muchas gracias por haber llamado. Hasta luego.,0.0,12,10,2,2025
+PREGUNTA, Hasta luego.,0.0,2,10,2,2025
+PREGUNTA,(FINALIZA AUDIO),0.0,2,10,2,2025
+PREGUNTA," Gracias. Muy buenos días, Presidenta. Amir Ibrahim, del QuintanaRooMx.",0.0,9,10,2,2025
+PREGUNTA,"La primera pregunta sería: aprovechando que, su viaje a Tulum y sobre el tema de regularización precisamente de las tierras que ya se ha estado hablando, si ¿ya hay algunas fechas para la regularización que ya se había hablado aquí en esta “mañanera” de Playa del Carmen y Tulum? Hay muchos terrenos en mi estado que son irregulares, otros ejidos, otras tierras nacionales, hay una diversidad de problemas en esta parte.",0.0,71,10,2,2025
+PREGUNTA,Saber si ¿ya hay un plan aparte del que acaban de exponer?,0.0,12,10,2,2025
+PREGUNTA,"Y saber más o menos: ¿cuánto tiempo requiere una persona para cumplir los nueve pasos de los que se hablaron, y específicamente en Quintana Roo, aprovechando que va para allá, si nos pudiera explicar?",0.0,34,10,2,2025
+PREGUNTA,"Otra pregunta, para Octavio: nos quedaron algunas dudas respecto a la exposición la vez pasada que realizó sobre los juicios masivos, entonces me gustaría exponer un poquito como el contexto primero y después elaborar algunas preguntas:",0.0,36,10,2,2025
+PREGUNTA,"Nosotros detectamos que se trató de dos, básicamente dos temporalidades de las que se hablaron en la exposición del lunes 27 de enero:",0.0,23,10,2,2025
+PREGUNTA,"Una en el 2012, en donde básicamente la estrategia era explicar, aplicar juicios masivos, no notificar a las partes, hacer juicios en otros lugares en donde no estaban ubicadas las propiedades y además, efectuar lanzamientos de personas y que eso afectaba mucho a la sociedad.",0.0,45,10,2,2025
+PREGUNTA,"Después, se expuso otra parte, que es la que nos llamó mucho la atención, del 2023, que ya es durante el gobierno del Presidente López Obrador que nos tocó cubrir; en donde se hablaron ya de juicios individuales, se habló de una estrategia similar o que se aplicaban juicios masivos, juicios individuales —voy a citar— “juicios individuales con la estrategia de los juicios masivos”.",0.0,64,10,2,2025
+PREGUNTA,"Entonces, nos pusimos, digamos a… un poquito, a checar este tema y nos dimos cuenta de que efectivamente, sí, los juicios individuales sí estaban permitidos, que sí, a diferencia de los otros, sí notificaron mediante edictos, encontramos varios edictos.",0.0,39,10,2,2025
+PREGUNTA,"Una de las sentencias que logramos encontrar de los boletines judiciales que inspeccionamos nos dimos cuenta de que no estaban ejecutadas; o sea, no hubo lanzamientos, como en la otra.",0.0,30,10,2,2025
+PREGUNTA,"También se hablaron de juicios fast track. Checamos la ley; más o menos creo que un juicio de estos debe tardar 30 días en solucionarse, y tardaron creo que un año, o sea, 12 veces más de lo que marca la ley, el Poder Judicial, en esto.",0.0,47,10,2,2025
+PREGUNTA,"Y nos surgieron algunas dudas porque aparte pudimos corroborar que muchas de estas viviendas que se recuperaron, estos juicios del 2023, estaban abandonadas o estaban invadidas ―como bien se dijo― y nos causó un poco de duda saber dos temas:",0.0,40,10,2,2025
+PREGUNTA,"¿Por qué se le clasifica como “corrupto” a un procedimiento que sí está permitido, que sí se notificó, que es claramente muy diferente al del 2012, como el que se ejecutó? ¿Por qué es corrupto?",0.0,35,10,2,2025
+PREGUNTA,"Y dos. Se hablaron de 29 mil millones en el primer caso del 2012 a despachos y después, se hablaron en el 2023 de nueve despachos, en donde, bueno, no se esbozó la cantidad que les pagó para ejecutar estos juicios.",0.0,41,10,2,2025
+PREGUNTA,"Entonces, yo, nosotros notamos una diferencia significativa de los temas 2012, 2023, y nos gustaría que nos explique: ¿por qué son —en el gobierno, bueno, de López Obrador— por qué en esta parte del Infonavit se ejecutaron, se ejecutó corrupción, pues? No lo entendimos muy bien, y no sé si nos pudiera, por favor, explicar, por qué.",0.0,57,10,2,2025
+PREGUNTA,Gracias.,0.0,1,10,2,2025
+PREGUNTA," Solamente ahí una pequeña interrupción: encontramos algunos contratos del Infonavit, y al parecer… Porque nos causó también eso mucha preocupación, o sea, que de repente un juicio en otro estado de una vivienda.",0.0,33,10,2,2025
+PREGUNTA,"Entonces, detectamos en el mismo contrato que hay una cláusula que se llama la “cláusula de jurisdicción”, que establece, precisamente, en dónde se va a ejecutar el juicio en caso de que haya alguna controversia. Y al parecer el derechohabiente estaba también enterado, digamos, de que su juicio iba a ser en la Ciudad de México, aunque su propiedad estuviera, digamos, en Quintana Roo.",0.0,64,10,2,2025
+PREGUNTA,"O sea que a la hora de firmar el contrato ya venía, digamos, establecido dónde se elaboraría el juicio en caso de que hubiese alguna controversia.",0.0,26,10,2,2025
+PREGUNTA,"Entonces, saber: ¿por qué el Infonavit permite firmar contratos en México, en la Ciudad, por ejemplo, en la Ciudad de México, si la vivienda está en Quintana Roo?, ¿por qué se establecen los tribunales de una ciudad que no corresponde a donde está la vivienda?, también esa es una pregunta.",0.0,50,10,2,2025
+PREGUNTA,Preguntar: ¿cuánto se le pagaron a los despachos?,0.0,8,10,2,2025
+PREGUNTA,"Y, bueno, preguntarle: ¿cuánto se le pagaron? En el 2012 les pagaron 29 mil millones…",0.0,15,10,2,2025
+PREGUNTA,"Pero, bueno, solamente una pregunta más: respecto a que caigan todos en un mismo despacho, un mismo juzgado.",0.0,18,10,2,2025
+PREGUNTA,"Por ahí estuvimos más o menos investigando con algunos abogados que tenemos expertos, y nos dicen que cuando el juicio es similar o pertenece a una característica similar, que en este caso creo que son juicios hipotecarios civiles, cuando son de la misma, cuando son casi lo mismo, caen en el mismo juzgado porque se resuelven en el mismo sentido ―me explicaban― para no luego caer en contradicciones porque es casi el mismo juicio. O sea, estamos hablando de personas que caen en cartera vencida por mucho tiempo o que ya, digamos, temas… Entonces, son muy similares los juicios, y que, por eso, muchas veces se acumulan en un mismo juzgado.",0.0,111,10,2,2025
+PREGUNTA,"Quiero preguntarles si en este caso en el que estamos hablando ¿esta hipótesis podría ser cierta?, ¿o cómo le hicieron para que todas cayeran en un mismo despacho y resolverlos, digamos, de esa manera?",0.0,34,10,2,2025
+PREGUNTA,"Perdóneme, es que me quedan muchas dudas. Yo estudié Derecho…",0.0,10,10,2,2025
+PREGUNTA," Nosotros encontramos notificaciones hechas en edictos, en periódicos de circulación nacional, de estos juicios, por si alguna vez le… si quiere, le puedo pasar la información. Más o menos encontramos tres boletines judiciales en donde se desplegaron estas sentencias porque creo que aproximadamente, de los 65 mil casos que usted esbozó, creo que solamente hay 10 mil sentencias.",0.0,58,10,2,2025
+PREGUNTA,"Pero lo que no pudimos encontrar y nos dimos a la tarea de buscar, es algún lanzamiento. Creo que en ese sentido no hubo ninguna persona lanzada, ninguno de los 65 mil casos se lanzó; a diferencia de los casos del 2012, en donde sí hubo lanzamientos, las notificaciones no se encontraron y cosas por el estilo.",0.0,57,10,2,2025
+PREGUNTA,"Entonces, nos llamó la atención porque se caracterizó el gobierno de López Obrador por ser un gobierno muy correcto. Y nos llamó mucho la atención que este tipo de mañas del 2012-2018 también se dieran en el gobierno de López Obrador.",0.0,41,10,2,2025
+PREGUNTA," Muchas gracias, señor director. Muchas gracias, Presidenta.",0.0,7,10,2,2025
+PREGUNTA," Gracias. Dalila Escobar, de Proceso.",0.0,5,10,2,2025
+PREGUNTA,"Primero, bueno, preguntarle sobre nuestra edición del mes de febrero, en donde, bueno, como se sabe, ya a unos meses antes de que lo capturaran a Ismael Zambada, el “Mayo”, buscó a la revista para dar algunas declaraciones, para un recorrido, incluso, en el lugar donde estaba. La plática se dio unos días antes de que fuera capturado.",0.0,58,10,2,2025
+PREGUNTA,"Y, bueno, ahí declaró que México se puede detener a algún capo, a algún narcotraficante, que sea líder, cabeza de algún criminal, y la actividad seguirá porque hay muchos interesados en esa actividad en el tema del tráfico de drogas, no nada más a nivel nacional, sino a nivel internacional también.",0.0,51,10,2,2025
+PREGUNTA,"Bueno, aseguró que, si hay violencia en el país, es porque las autoridades, en específico las locales, no hacen su trabajo.",0.0,21,10,2,2025
+PREGUNTA,"También dijo a Proceso que el expresidente Andrés Manuel López Obrador tenía razón en el tema de la estrategia de “Abrazos, no balazos”.",0.0,23,10,2,2025
+PREGUNTA,"Y, bueno, también insistir en la pregunta en torno a que él mencionaba que “el fentanilo no era producido por su facción en el cártel de Sinaloa”; es decir, por los “Mayos”, sino que pudiera ser por alguna otra, en este caso estaría apuntando hacia los “Chapitos” o del lado del “Chapo” Guzmán.",0.0,53,10,2,2025
+PREGUNTA,"Quisiera preguntarle, primero: en efecto, este asunto, ha encontrado que si, en efecto, no se ha podido terminar con el tema del narcotráfico, ¿sí es porque la autoridad no hace su trabajo en específico, el asunto de los municipios, de los estados también, como sabemos?",0.0,45,10,2,2025
+PREGUNTA,"Y el asunto también del fentanilo, si en efecto, ¿tiene información de que es solo una facción del cártel el que tiene esa producción, que es lo que acusa el gobierno de Estados Unidos que llega hasta su país?",0.0,39,10,2,2025
+PREGUNTA,"En primera instancia, Presidenta.",0.0,4,10,2,2025
+PREGUNTA,"Vaya, ¿hay diferencia en la estrategia que tenía el expresidente Andrés Manuel López Obrador con la que se tiene actualmente o evolucionó o cómo lo define?",0.0,26,10,2,2025
+PREGUNTA," Ok, bueno.",0.0,2,10,2,2025
+PREGUNTA,"Presidenta, sí, lo que pasa es que también no entendemos ¿por qué no decirlo con claridad?, no es como ninguna intención negativa, la que se busque, encontrar en una declaración. Es básicamente lo que queremos saber es: directamente si…",0.0,39,10,2,2025
+PREGUNTA," Ahora, con el proceso que está siguiendo Zambada en Estados Unidos, sabemos que hay como varias…",0.0,16,10,2,2025
+PREGUNTA," Si me permite, podríamos hacerlas.",0.0,5,10,2,2025
+PREGUNTA," Pero, bueno, preguntarle entonces en el tema de lo que tiene que ver…",0.0,13,10,2,2025
+PREGUNTA," Si me permite, con gusto se las hago.",0.0,8,10,2,2025
+PREGUNTA, Bien. Presidenta.,0.0,2,10,2,2025
+PREGUNTA,"Preguntarle, entonces: también íbamos enfocados a lo que tiene que ver con algunas de las declaraciones que han dado personas, bueno, que han sido narcotraficantes, pero que también han cooperado con el gobierno de Estados Unidos en torno a lo que ha sucedido, por ejemplo, en los casos de funcionarios en México, ligados a…",0.0,54,10,2,2025
+PREGUNTA," Sí, precisamente justo, bueno, también sobre eso quería comentarle: así como Genaro García Luna surgió precisamente de una declaración en un juicio en el caso del “Chapo” y en algunos otros que hubo testigos o colaboradores que lo señalaron a él, también señalaron al General Salvador Cienfuegos.",0.0,47,10,2,2025
+PREGUNTA,"Preguntarle en este sentido: sabemos que Cienfuegos fue regresado a México, pero por una intervención del gobierno mexicano, en el que se hablaba de temas que tienen que ver con la relación bilateral, en este caso México-Estados Unidos, pero no propiamente porque se le haya llevado un juicio en el que se comprobara o no que fue él, precisamente, parte de lo que tiene que ver con la colusión con el crimen.",0.0,72,10,2,2025
+PREGUNTA,Lo veíamos también en este evento de la Marcha de la Lealtad.,0.0,12,10,2,2025
+PREGUNTA,"Quisiera preguntarle, Presidenta, si, en efecto, en este contexto en el que se enmarcó la situación del General Salvador Cienfuegos, ¿pudiera ser correcto que siguiéramos a un personaje así en eventos?",0.0,31,10,2,2025
+PREGUNTA,"Sobre todo, la pregunta es…",0.0,5,10,2,2025
+PREGUNTA,"En el tema también con Donald Trump, el asunto de lo que ahora anuncia, aranceles para el tema del acero y el aluminio, pero también lo relacionado con lo que ya se había hablado anteriormente en torno al tema de aranceles por asuntos de migración y de seguridad, yo quisiera preguntarle Presidenta: la situación, si fue en algún momento de las pláticas con el presidente de Estados Unidos…",0.0,68,10,2,2025
+PREGUNTA,"¿En algún momento Estados Unidos planteó, puso sobre la mesa que ellos estarían presionando de alguna manera o estarían enviando de alguna forma o planteando de alguna manera también elementos? Y de esa manera, ¿a lo mejor México fue como aceptó enviar esta cantidad de elementos a la frontera? ¿O por qué no se hizo esta propuesta antes de llegar hasta el punto pues de que se aplicaran aranceles?",0.0,69,10,2,2025
+PREGUNTA,"Y también, sobre ese sentido…",0.0,5,10,2,2025
+PREGUNTA," Sí. De hecho, por eso la pregunta.",0.0,7,10,2,2025
+PREGUNTA," Presidenta, finalmente, en el tema de lo que… Ah, bueno, ¿ha habido alguna comunicación en torno a los aranceles por aluminio y acero?, ¿ha habido alguna comunicación?",0.0,27,10,2,2025
+PREGUNTA, ¿Y esperarán a que hubiera alguna negociación en torno a eso para…?,0.0,12,10,2,2025
+PREGUNTA," Sobre lo que decía de las armas, ¿esperaría México, entonces, que hubiera una orden ejecutiva de por medio para que, en efecto, en Estados Unidos…?",0.0,25,10,2,2025
+PREGUNTA,"Finalmente, sobre el asunto de migración, que también está relacionado con el tema de relación con Estados Unidos, existe una preocupación por quienes atraviesan México y llegan a desaparecer, esto porque existe también un reportaje, una publicación de Proceso y Galería News, que exponen la problemática de un caso emblemático, como es el de la niña Sofía Abigail, quien, en 2022, al intentar cruzar con su madre el río Bravo, la madre se ahogó y de la niña no se supo nada; estas personas son nicaragüenses.",0.0,86,10,2,2025
+PREGUNTA,"Quisiera saber si, ¿tendrán o, bueno, si pudiera solicitar información en torno a qué ha sucedido con la investigación de esta menor de edad? Y también si ¿tienen cifras en torno a cuántos menores han desaparecido en este tránsito?",0.0,39,10,2,2025
+PREGUNTA,"Sabemos que pudiera ser complicado, precisamente por el hecho de que entran al país sin un registro, pero saber si, ¿existe precisamente este tipo de información...",0.0,26,10,2,2025
+PREGUNTA,"Pero quisiera ver si ¿el gobierno mexicano tiene en el radar el tema de las desapariciones, sí de personas migrantes, por supuesto también de mexicanos, pero también lo que tiene que ver con menores de edad, por el caso, por ejemplo, como el de esta niña Sofía Abigail?",0.0,48,10,2,2025
+PREGUNTA,"Presidenta hablando del tema de las mujeres, el INE podría determinar vacantes las plazas judiciales en las que ninguna mujer sea electa y mandarlas a renovar hasta las próximas elecciones, a fin de garantizar la paridad de género en la elección judicial.",0.0,42,10,2,2025
+PREGUNTA,¿Cómo lo ve usted?,0.0,4,10,2,2025
+PREGUNTA,Y si ¿ya tiene adelanto de cuánto podría ser el presupuesto para la elección?,0.0,14,10,2,2025
+PREGUNTA," Y de que el INE podría determinar vacantes a las plazas judiciales, a que ninguna mujer llegue a ser electa, ¿está de acuerdo con esto? Esto creo que va a ser el día de hoy.",0.0,35,10,2,2025
+PREGUNTA," El INE podría determinar vacantes las plazas judiciales en la que ninguna mujer sea electa y mandarlas a renovar hasta la elección del 2027, esto para lograr la paridad de género.",0.0,31,10,2,2025
+PREGUNTA," Bien. Presidenta, volviendo al tema de Estados Unidos. La Casa Blanca hace unos días, había anunciado la reanudación de la construcción del muro fronterizo, del muro, que serían unos 123 kilómetros. En su momento, el Gobierno de México —creo— pagaría por esta edificación.",0.0,43,10,2,2025
+PREGUNTA,¿Esto es así? ¿Se habló de ello? ¿Está de acuerdo con esto?,0.0,12,10,2,2025
+PREGUNTA," Hoy la esposa del presidente municipal de Villa Hidalgo ha sido localizada con bien, señaló el gobernador Pablo Lemus, quien confirmó el rescate.",0.0,23,10,2,2025
+PREGUNTA,¿Qué información tiene de esto? ¿Sabrá por qué fue el secuestro?,0.0,11,10,2,2025
+PREGUNTA, Ok.,0.0,1,10,2,2025
+PREGUNTA,"Y entonces, vamos a esperar ya que diga con estos aranceles que se va a aplicar el 25 por ciento del aluminio, ¿qué va a hacer el Gobierno de México?",0.0,30,10,2,2025
+PREGUNTA, Ok.,0.0,1,10,2,2025
+PREGUNTA,"Y, Presidenta, ¿cuándo nos puede dar una actualización de datos del Plan de Desarme para México? ¿Cómo va esto? ¿Cuál es la estrategia? ¿Y la identificación de la cantidad de desparecidos en el país y de estos centros que han también sido desaparecidos?",0.0,43,10,2,2025
+PREGUNTA," Centros que han sido de investigación para desaparecidos como el de Morelos, que ya no se encuentra, ¿cuándo nos puede dar cifras de estos?",0.0,24,10,2,2025
+PREGUNTA, (inaudible),0.0,1,10,2,2025
+PREGUNTA, Gracias.,0.0,1,10,2,2025
+PREGUNTA," Gracias. Buenos días, Presidenta. Citlali Guerrero, de Bajo Palabra.",0.0,9,10,2,2025
+PREGUNTA,"De acuerdo al diagnóstico “Operativo de salud mental y adicciones” realizado en 2022: el 19 por ciento de la población mexicana presenta un tipo de trastorno mental que van de leves, moderados y extremos.",0.0,34,10,2,2025
+PREGUNTA,"Y en contraparte, solamente se contabilizaron en México: 4 mil 393 psiquiatras, con una tasa estimada de 3.68 por cada 100 mil habitantes, es decir, que menos de 5 mil psiquiatras atienden a casi 25 millones de mexicanas y mexicanos que padecen algún tipo de trastorno mental.",0.0,47,10,2,2025
+PREGUNTA,"Y, por otro lado, en 2022, se aprobó que no se crearían más hospitales psiquiátricos en el país y que la atención de psiquiatría migraría a hospitales generales.",0.0,28,10,2,2025
+PREGUNTA,"En 2024, apenas se abrieron 140 camas censables destinadas para pacientes.",0.0,11,10,2,2025
+PREGUNTA,"Preguntarle, Presidenta…",0.0,2,10,2,2025
+PREGUNTA,"Preguntarle, Presidenta: ¿qué estrategias, proyectos o programas tiene considerado para atender a esa población cada vez más creciente que requiere de esta atención especializada?",0.0,24,10,2,2025
+PREGUNTA,"Y preguntarle si ¿usted consideraría el tema de salud mental y emocional, sea un eje transversal en sus políticas públicas, así como fue en su momento el tema de género?",0.0,30,10,2,2025
+PREGUNTA,"Y, bueno, si bien es cierto, como usted informó, México no presenta problemas de consumo de fentanilo, pero sí presenta una alta incidencia de consumo de alcohol.",0.0,27,10,2,2025
+PREGUNTA,"En la Encuesta Nacional de Consumo de Drogas, Alcohol y Tabaco en 2017, el Instituto Nacional de Psiquiatría “Ramón de la Fuente”, lo consideró como: el uso de sustancia más extendida en el país, con graves consecuencias sociales y de salud; y ahora, de fácil y normal acceso, en donde se pueden conseguir en las tiendas de conveniencia a precios muy baratos.",0.0,62,10,2,2025
+PREGUNTA,"Preguntarle, Presidenta, si ¿estas bebidas alcohólicas están registradas por Cofepris?",0.0,10,10,2,2025
+PREGUNTA,"Y si ¿tiene considerado también una estrategia focalizada para atender en México el consumo del alcohol?, ya que regularmente, cuando hay presencia de alcohol en casa, hay problemas de violencia familiar que derivan en afectaciones de niñas, niños, jóvenes, quienes terminan consumiendo otro tipo de drogas.",0.0,46,10,2,2025
+PREGUNTA,"Bueno, el magistrado presidente del Poder Judicial del estado de Guerrero, Ricardo Salinas, ha dicho que, si bien, es cierto están homologando los trabajos para las elecciones del Poder Judicial, por falta de recursos económicos no pueden realizarse las elecciones para elegir jueces y magistrados este año en Guerrero; y está proponiendo que se haga hasta el 2027.",0.0,58,10,2,2025
+PREGUNTA,"En contraparte, el diputado Pablo Amílcar Sandoval está proponiendo replantear el presupuesto en el estado y empatar las elecciones federales con las estatales para que las dos se realicen en junio de 2025, como está previsto.",0.0,36,10,2,2025
+PREGUNTA,"Preguntarle, ¿su opinión al respecto?",0.0,5,10,2,2025
+PREGUNTA,"Por último, Presidenta, el senador Manuel Añorve Baños declaró en medios en Guerrero que las iniciativas enviadas por usted el 5 de febrero sobre la no reelección y contra el nepotismo, “podrían no jalar, porque partidos aliados a Morena están inconformes, porque afectan algunos intereses personales”.",0.0,46,10,2,2025
+PREGUNTA,"Y este fin de semana, el senador Félix Salgado dijo que apoya la iniciativa que usted la envió tal cual, pero que hay una controversia: que hay algunos que están pidiendo que las dos iniciativas entren en 2027 o que las dos iniciativas entren hasta 2030.",0.0,46,10,2,2025
+PREGUNTA,Preguntarle: ¿qué opina?,0.0,3,10,2,2025
+PREGUNTA," ¿(inaudible) jalar porque sus aliados están inconformes, el PT y el Verde Ecologista?",0.0,13,10,2,2025
